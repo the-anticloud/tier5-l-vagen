@@ -1,0 +1,20 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "L_VAGEN",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://radon.readthedocs.io/",
+  "results": {
+    "framework": "Radon \u2014 Cyclomatic Complexity & Maintainability Index",
+    "source": "https://radon.readthedocs.io/",
+    "files_analyzed": 10,
+    "average_complexity": {
+      "grade": "A",
+      "score": 4.355029585798817
+    },
+    "complexity_grade": "A",
+    "complexity_score": 4.355029585798817,
+    "status": "PASS",
+    "raw_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\manage_envs.py\n    F 452:0 _covering_combos - C (17)\n    F 659:0 cmd_list - C (15)\n    F 623:0 cmd_clean - B (10)\n    F 722:0 cmd_prefetch - B (10)\n    F 555:0 cmd_run - B (9)\n    F 297:0 _point_default_venv - B (8)\n    F 332:0 _pop_name - B (7)\n    F 366:0 _expand - B (7)\n    F 434:0 _run - B (7)\n    F 238:0 _resolve_name - A (5)\n    F 511:0 cmd_sync - A (5)\n    F 927:0 main - A (4)\n    F 259:0 _venv_dir - A (3)\n    F 384:0 _conflict_in - A (3)\n    F 394:0 _validate_combo - A (3)\n    F 418:0 _no_install_flags - A (3)\n    F 595:0 cmd_shell - A (3)\n    F 282:0 _detach_symlink_target - A (2)\n    F 361:0 _require_uv - A (2)\n    F 405:0 _extra_flags - A (2)\n    F 277:0 _proj_env - A (1)\n    F 412:0 _no_install_packages - A (1)\n    F 505:0 cmd_lock - A (1)\n    F 831:0 _build_parser - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\scripts\\chat_template_checker.py\n    F 995:0 main - D (25)\n    F 306:0 _warn_glm_tool_template_limitations - B (10)\n    F 922:0 _print_results - B (10)\n    F 363:0 _truncate_after_final_eos - B (8)\n    F 726:0 _extract_images - B (7)\n    F 238:0 _token_prefix_error - B (6)\n    F 254:0 _token_mismatch_error - B (6)\n    F 280:0 _is_glm_tokenizer - B (6)\n    F 339:0 _tokenizer_eos_token_ids - B (6)\n    F 350:0 _require_single_token_id - B (6)\n    F 444:0 run_raw_template_checks - B (6)\n    F 556:0 _ct_merge_boundaries - B (6)\n    F 579:0 _run_ct",
+    "mi_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\manage_envs.py - A (34.13)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\setup.py - A (89.75)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\docs\\conf.py - A (82.69)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\scripts\\chat_template_checker.py - A (23.06)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\U"
+  }
+}

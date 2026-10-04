@@ -1,0 +1,14 @@
+{
+  "benchmark": "Lizard_Complexity_Lab_Results",
+  "project": "L_VAGEN",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://github.com/terryyin/lizard",
+  "results": {
+    "framework": "Lizard \u2014 Multi-Language Complexity Analyzer",
+    "source": "https://github.com/terryyin/lizard",
+    "total_functions": null,
+    "avg_cyclomatic_complexity": null,
+    "status": "SKIP",
+    "raw_output": "================================================\n  NLOC    CCN   token  PARAM  length  location  \n------------------------------------------------\n      13      1     63      2      13 make_map_fn.process_fn@50-62@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\examples\\data_preprocess\\aime2024_multiturn_w_tool.py\n       3      1      9      1      16 make_map_fn@49-64@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\examples\\data_preprocess\\aime2024_multiturn_w_tool.py\n      13      1     63      2      13 make_map_fn.process_fn@50-62@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\examples\\data_preprocess\\dapo_multiturn_w_tool.py\n       3      1      9      1      16 make_map_fn@49-64@E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\L_VAGEN\\UPSTREAM\\examples\\data_preprocess\\dapo_multiturn_w_tool.py\n      20      4    176      3      29 generate_sft_dataset@30-58@E:\\fenta\\Downloads\\The"
+  }
+}
